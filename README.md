@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muhammad Uzair 👋
 
-<!--
-**UzairJaved-Dev/UzairJaved-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Full-Stack Developer** · Building practical software with AI, web, and mobile
 
-Here are some ideas to get you started:
+I turn ideas into working products: AI-powered apps, clean web interfaces, and cross-platform mobile apps. I care about shipping things that are useful, reliable, and easy to maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **AI** | LLM APIs, prompt engineering, AI automation |
+| **Frontend** | JavaScript, TypeScript, React, Next.js |
+| **Backend** | Python, REST APIs, SQL |
+| **Mobile** | Flutter, Dart |
+| **Infra & Tools** | Git, GitHub, Firebase, Supabase, Vercel |
+
+---
+
+## 🚀 How I Can Help
+
+- 🤖 **AI integrations**: add LLM-powered features to your product or workflow
+- 🌐 **Full-stack web apps**: from database to polished UI
+- 🔌 **API integrations**: connect services and automate data flow
+- 📱 **Flutter apps**: one codebase for Android and iOS
+- 🐛 **Bug fixes & new features**: fast, clean turnaround
+- ⚙️ **Automation & developer tooling**: remove repetitive work
+
+---
+
+## 📌 Currently
+
+- 🔨 Building real-world projects and sharpening my full-stack and AI skills
+- 📚 Deepening my knowledge of software architecture and engineering practices
+- 🤝 **Open to freelance work and collaborations**
